@@ -1,0 +1,15 @@
+{
+    "name": "Abinash weds Sukanya",
+    "short_name": "Abinash weds Sukanya",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "Abinash weds Sukanya",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
